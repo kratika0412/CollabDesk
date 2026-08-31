@@ -1,10 +1,10 @@
-## SyncSpace
+## CollabSpace
 
 A real-time collaborative workspace platform where users can create shared workspaces, edit notes together, chat instantly, and see active collaborators.
 
 ## Live Demo
 
-🌐 **Try SyncSpace here:** https://incandescent-fox-005f0f.netlify.app
+🌐 **Try CollabSpace here:** https://incandescent-fox-005f0f.netlify.app
 
 ### Screenshots
 
@@ -130,7 +130,7 @@ Client (React + Socket.io)
 ### Project structure
 
 ```text
-syncspace/
+collabspace/
 ├── backend
 │   ├── src
 │   │   ├── controllers
@@ -157,7 +157,7 @@ syncspace/
 
 ### Environment variables
 
-SyncSpace uses environment variables for backend configuration.
+CollabSpace uses environment variables for backend configuration.
 
 - Copy the example file to create your local config:
 
@@ -212,5 +212,5 @@ Open the frontend URL (default `http://localhost:5173`) in your browser, registe
 
 ## 👤 Author
 
-Kavya Rai  
+Kratika Jasuja  
 IIT Kharagpur
